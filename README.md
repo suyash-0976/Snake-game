@@ -1,5 +1,7 @@
 # Softronix Snake Game
 
+![Gameplay](gameplay.png)
+
 A classic Snake game built with Python and Pygame. Navigate the snake, eat food, and try to get the highest score possible!
 
 ## Features
